@@ -3,7 +3,7 @@ numpy
 pil
 matplotlib
 random
-
+pyautogui
 
 
 
