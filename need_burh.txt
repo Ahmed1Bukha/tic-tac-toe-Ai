@@ -1,0 +1,16 @@
+Lib to use:
+numpy 
+pil
+matplotlib
+random
+
+
+
+
+
+Webites important:
+https://stackoverflow.com/questions/14767594/how-to-detect-object-on-images
+https://www.google.com/search?channel=fs&client=ubuntu&q=tictactoe
+https://medium.com/@ODSC/how-300-matchboxes-learned-to-play-tic-tac-toe-using-menace-35e0e4c29fc
+https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+https://www.mscroggs.co.uk/menace/
