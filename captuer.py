@@ -1,9 +1,10 @@
 import pyautogui
 from PIL import Image
-
+import time
 
 XY = [[156, 238], [858, 744]]
 
+time.sleep(2)
 game_board = pyautogui.screenshot()
 
 
